@@ -40,9 +40,9 @@ There's a public parking deck nearby for car parking.
 
 There will also be parking spaces for bikes directly at the building.
 
-## Sublenting the 2nd floor
+## Subletting the 2nd floor
 
-We want to sublent the top floor as we don't need that much space right now (but maybe later). If you're interested in that, get in contact with me (chregu@liip.ch) and we can talk about conditions and prices.
+We want to sublet the top floor as we don't need that much space right now (but maybe later). If you're interested in that, get in contact with me (chregu@liip.ch) and we can talk about conditions and prices.
 
 ![2ndfloor](https://raw.github.com/liip/limmatstrasse-183/master/images/l-183_2nd_floor.png) 
 

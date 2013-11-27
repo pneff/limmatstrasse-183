@@ -46,3 +46,9 @@ We want to sublet the top floor as we don't need that much space right now (but 
 
 ![2ndfloor](images/L183-2nd-floor.png)
 
+## Outside pictures
+
+![](images/L183-suedost.png)
+![](images/L183-nordwest.png)
+![](images/L183-suedwest-nordost.png)
+

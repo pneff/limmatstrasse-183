@@ -6,7 +6,7 @@ Escher-Wyss-Platz right before the Viaduct and very near to Tram-Station
 Quellenstrasse.
 
 * Streetview: [http://liip.to/L183Streetview](http://liip.to/L183Streetview)
-* MapView: [http://liip.to/L183MapView](http://liip.to/L183MapView)
+* MapView: [http://liip.to/L183GoodMap](http://liip.to/L183GoodMap)
 
 
 It's the old Radio 24 Building, but they are currently totally

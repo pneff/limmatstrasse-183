@@ -44,5 +44,5 @@ There will also be parking spaces for bikes directly at the building.
 
 We want to sublet the top floor as we don't need that much space right now (but maybe later). If you're interested in that, get in contact with me (chregu@liip.ch) and we can talk about conditions and prices.
 
-![2ndfloor](https://raw.github.com/liip/limmatstrasse-183/master/images/l-183_2nd_floor.png) 
+![2ndfloor](images/L183-2nd-floor.png)
 
